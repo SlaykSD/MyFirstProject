@@ -1,6 +1,6 @@
 public class List {
     private int len;
-    public Item head;
+    private Item head;
 
     private class Item {
         private Object value;
